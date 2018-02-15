@@ -1,0 +1,5 @@
+node_modules
+templates
+config.json
+bower_components
+/public/uploads
